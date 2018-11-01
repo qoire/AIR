@@ -12,5 +12,5 @@ This repository is for maintaining documentation and a working copy of the contr
 
 | Network | Deployment Status | Blockhash 		                            |
 |---------|-------------------|---------------------------------------------|
-| Mainnet | [ ]               |                                             |
-| Mastery | [x]               | https://mastery.aion.network/#/block/853363 |
+| Mainnet |                   |                                             |
+| Mastery | ✔️                | https://mastery.aion.network/#/block/853363 |
